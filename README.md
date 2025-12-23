@@ -30,6 +30,7 @@ The goal of this project is to automatically classify movie genres from textual 
 
 ## Conclusion
 This project demonstrates how machine learning models can be used to classify text data and predict movie genres effectively.
+## Auther:Ashwitha
 
 
 
@@ -57,6 +58,7 @@ Random Forest performed better and was selected as the final model.
 ## Conclusion
 This project shows how machine learning can be used to predict customer churn
 and help businesses reduce customer loss.
+## Auther:Ashwitha
 
 
 Task:3 Spam SMS Detection using Machine Learning
@@ -103,6 +105,8 @@ HAM (NOT SPAM)
 
 ## Conclusion
 The spam detection model effectively identifies unwanted SMS messages using machine learning and NLP techniques.
+## Auther:Ashwitha
+
 
 
 
@@ -128,6 +132,7 @@ The quality of generated text depends on the size of the training dataset.
 ## Conclusion
 This project demonstrates the use of RNN and LSTM models for text generation.
 Increasing the amount of training data can improve the quality of generated text.
+## Auther:Ashwitha
 
 
 
